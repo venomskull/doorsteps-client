@@ -1,0 +1,2 @@
+npx create-next-app survey
+yarn add react-hook-form
